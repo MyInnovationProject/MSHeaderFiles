@@ -8,13 +8,14 @@
 #pragma once
 
 
-
+//[Shaylesh] Test contributors changes.
 //! @addtogroup TextModule
 //! @beginGroup
 
 //=======================================================================================
 //! An STL iterator-like wrapper around Caret, that allows you to easily iterate paragraphs.
-//! See notes on Caret as to why this is helpful.
+//! See notes on Caret as to why this is helpful.
+
 
 //! @endGroup
 
